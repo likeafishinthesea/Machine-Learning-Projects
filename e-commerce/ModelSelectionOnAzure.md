@@ -1,4 +1,4 @@
-**Scenario: Business use case: Predicting customer churn for an e-commerce platform**
+**Business use case: Predicting customer churn for an e-commerce platform**
 
 You are working as an AI/ML engineer for an e-commerce company that is concerned about customer retention. 
 The company has noticed that a significant number of customers are not returning to make additional purchases after their initial transactions. 
